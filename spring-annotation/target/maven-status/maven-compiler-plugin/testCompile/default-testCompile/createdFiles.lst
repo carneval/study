@@ -1,1 +1,5 @@
 com/test/ProfileTest.class
+com/test/AOPTest.class
+com/test/ExtTest.class
+com/test/ExtTest$1.class
+com/test/TxTest.class
